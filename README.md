@@ -27,7 +27,7 @@ Currently focusing on C++ and Java, while practicing Data Structures and Object-
 
 ## Connect with Me
 - GitHub: [https://github.com/mohamedashwak](https://github.com/mohamedashwak)  
-- LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/MohamedAshwak)
 
 
 
